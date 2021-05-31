@@ -4,8 +4,9 @@
 
 ### Група на код:
 
-### Control Flow Graph
-![Control Flow Graph] (CFG.png)
+###  Control Flow Graph
+
+![Control Flow Graph](CFG.png)
 
 ### Цикломатска комплексност
 CYC = E – N + 2P
